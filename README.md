@@ -1,3 +1,5 @@
 # Plug
 
-here ill share the business journey
+here i will share the business journey
+
+of customer / storeFront 
